@@ -1,0 +1,5 @@
+{
+    "name": "pixelcab/docksal-commands",
+    "description": "A collection of custom Docksal commands.",
+    "type": "pixelcab-docksal-commands"
+}
