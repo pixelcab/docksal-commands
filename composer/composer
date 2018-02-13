@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+## Shortcut command to run composer within a Docksal project.
+##
+## Use: fin composer [command]
+set -e
+
+cd "${PROJECT_ROOT}"
+
+fin exec composer "$@"
